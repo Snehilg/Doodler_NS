@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1021088501582-sb2cbj7jbkjvj651to58oulnnlej4glj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1021088501582-sb2cbj7jbkjvj651to58oulnnlej4glj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1021088501582-61b45i8tpl3e7ijpo3d4kqec365nmm4j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDHGVwb7_ZbqhWbgtmiCD0oX-G5H_j9d1g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1021088501582</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.doodler</string>
+	<key>PROJECT_ID</key>
+	<string>doodler-6fab7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doodler-6fab7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1021088501582:ios:2bc726b1d121835fd2d81f</string>
+	<key>DATABASE_URL</key>
+	<string>https://doodler-6fab7.firebaseio.com</string>
+</dict>
+</plist>

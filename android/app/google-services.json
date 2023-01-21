@@ -1,0 +1,239 @@
+{
+  "project_info": {
+    "project_number": "1021088501582",
+    "firebase_url": "https://doodler-6fab7.firebaseio.com",
+    "project_id": "doodler-6fab7",
+    "storage_bucket": "doodler-6fab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021088501582:android:78880fe5a90690ddd2d81f",
+        "android_client_info": {
+          "package_name": "com.example.doodler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021088501582-ekrju6vqhmdoipejgeacar84ft3gs4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcsq_MheXsHEChoUUbeSJVVH_CD7oS3TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021088501582-ekrju6vqhmdoipejgeacar84ft3gs4aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1021088501582-04h8krau6m0q5l2h2fs4avatpku97jsm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doodlerElearning"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021088501582:android:0b4703549fae7a9dd2d81f",
+        "android_client_info": {
+          "package_name": "com.example.doodlerAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021088501582-61b45i8tpl3e7ijpo3d4kqec365nmm4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doodlerAdmin",
+            "certificate_hash": "113cb5d853c01a139e9477a2633bec937285003e"
+          }
+        },
+        {
+          "client_id": "1021088501582-cf3kv8f7ka6biu9m00lb5rfrvpbcji9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doodlerAdmin",
+            "certificate_hash": "d9dc9d1a6005559a9d800c7b8e91840f75624241"
+          }
+        },
+        {
+          "client_id": "1021088501582-ekrju6vqhmdoipejgeacar84ft3gs4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcsq_MheXsHEChoUUbeSJVVH_CD7oS3TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021088501582-ekrju6vqhmdoipejgeacar84ft3gs4aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1021088501582-04h8krau6m0q5l2h2fs4avatpku97jsm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doodlerElearning"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021088501582:android:f1ed464132a6e3ecd2d81f",
+        "android_client_info": {
+          "package_name": "com.example.doodler_elearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021088501582-ekrju6vqhmdoipejgeacar84ft3gs4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcsq_MheXsHEChoUUbeSJVVH_CD7oS3TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021088501582-ekrju6vqhmdoipejgeacar84ft3gs4aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1021088501582-04h8krau6m0q5l2h2fs4avatpku97jsm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doodlerElearning"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021088501582:android:4baa2f8ded6fcac6d2d81f",
+        "android_client_info": {
+          "package_name": "com.example.kiddo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021088501582-ekrju6vqhmdoipejgeacar84ft3gs4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcsq_MheXsHEChoUUbeSJVVH_CD7oS3TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021088501582-ekrju6vqhmdoipejgeacar84ft3gs4aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1021088501582-04h8krau6m0q5l2h2fs4avatpku97jsm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doodlerElearning"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021088501582:android:7b026ee6c1a9a7fdd2d81f",
+        "android_client_info": {
+          "package_name": "com.pietylabs.doodler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021088501582-aka50q45qoom1h1mt48hstnidhpq71nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pietylabs.doodler",
+            "certificate_hash": "ff7f9c077370723d1b8c7c60006408b06f92e3e8"
+          }
+        },
+        {
+          "client_id": "1021088501582-kjs3emblij8980d39j16kacr3146tveb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pietylabs.doodler",
+            "certificate_hash": "d9dc9d1a6005559a9d800c7b8e91840f75624241"
+          }
+        },
+        {
+          "client_id": "1021088501582-ku7iompf546qh0npnpkivc82sm0f57dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pietylabs.doodler",
+            "certificate_hash": "fd62c6cb4f8f135a0b5a520cff9effe555f4fc9d"
+          }
+        },
+        {
+          "client_id": "1021088501582-nnmjujjburkbuvf5tqibfgteda9hhfr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pietylabs.doodler",
+            "certificate_hash": "40b2147cb88f017d1ec20b44c1c63d4baf30b523"
+          }
+        },
+        {
+          "client_id": "1021088501582-ekrju6vqhmdoipejgeacar84ft3gs4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcsq_MheXsHEChoUUbeSJVVH_CD7oS3TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021088501582-ekrju6vqhmdoipejgeacar84ft3gs4aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1021088501582-04h8krau6m0q5l2h2fs4avatpku97jsm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doodlerElearning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
